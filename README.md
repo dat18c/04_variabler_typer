@@ -10,8 +10,8 @@
 Kig i evt. i Oracles Java Tutorial i mangel af bogen (bogen er bedre at læse): https://docs.oracle.com/javase/tutorial/java/TOC.html 
 ## Operators
 * \+ (plus)
-* - (minus)
-* * (gange)
+* \- (minus)
+* \* (gange)
 * / (division)
 * % (modulus)
 
@@ -20,5 +20,5 @@ Kig i evt. i Oracles Java Tutorial i mangel af bogen (bogen er bedre at læse): 
 * Lav et program, der udregner og udskriver BMI (vægt / (højde * højde))
 * Lav programmerne med brug af variable
 
-## Modulopgave 1 - Animal Horror Zoo
+## Modulopgave 1 - Little Animal Horror Zoo
 https://github.com/dat18c/little_animal_horror_zoo
