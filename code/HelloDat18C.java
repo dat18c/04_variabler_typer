@@ -5,8 +5,8 @@ public class HelloDat18C
    {
       //Udskriv noget til skærmen
       System.out.println("Hello \"Dat18C!\"");
-      System.out.println("Vær velkommen til 1. semester.");
-      System.out.println("Vi klarer os uden bøger de første par dage.");
+      System.out.println("1\tVær velkommen til 1. semester.");
+      System.out.println("22445\tVi klarer os uden bøger de første par dage.");
       /*
       meget lang kommentar
       \t (tab)
